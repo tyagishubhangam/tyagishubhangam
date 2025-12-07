@@ -35,17 +35,6 @@ Backend-focused developer passionate about building **scalable microservices** a
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
-
-## 💼 Experience
-
-**Backend Developer Intern**  
-📍 *Your Exam Saathi (Remote)* | Dec 2024 – June 2025  
-- Designed and optimized **20+ REST APIs** using Spring Boot  
-- Improved API response time by **30%**  
-- Implemented **JWT & OAuth2 based authentication**
-
----
-
 ## 🧩 Featured Projects
 
 ### 🛒 Micromart – Full Stack E-Commerce
