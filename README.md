@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Shubhangam+Tyagi!;Backend+Developer+%7C+Software+Engineer;Spring+Boot+%7C+Kafka+%7C+Microservices;+&center=true&width=650&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shubhangam+Tyagi!;Backend+Developer+%7C+Software+Engineer;Spring+Boot+%7C+Kafka+%7C+Microservices" />
 </p>
+
 
 <p align="center">
   <a href="mailto:shubhangamtyagi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
