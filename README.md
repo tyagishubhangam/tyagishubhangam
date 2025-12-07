@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Shubhangam+Tyagi!;Backend+Developer+%7C+Software+Engineer;Spring+Boot+%7C+Kafka+%7C+Microservices;Docker+%7C+Kubernetes+Enthusiast&center=true&width=650&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Shubhangam+Tyagi!;Backend+Developer+%7C+Software+Engineer;Spring+Boot+%7C+Kafka+%7C+Microservices;+&center=true&width=650&height=50" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Backend-focused developer passionate about building **scalable microservices** and **event-driven systems** using **Spring Boot, Kafka, Docker, and Kubernetes**. I enjoy writing clean, maintainable code and designing production-ready architectures.
+Backend-focused developer passionate about building **scalable microservices** and **event-driven systems** using **Spring Boot, Kafka**. I enjoy writing clean, maintainable code and designing production-ready architectures.
 
 
 ---
@@ -30,9 +30,10 @@ Backend-focused developer passionate about building **scalable microservices** a
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<!--![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) -->
 
 ---
 ## 🧩 Featured Projects
